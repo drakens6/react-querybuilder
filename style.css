@@ -1,0 +1,43 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.container{
+	margin-top:50px;
+}
+.searchdates{
+	margin-left:20px;
+}
+.well{
+	padding:6px;
+	background:#E5E9F5;
+	margin-left:5px;
+}
+.ms{
+	width:35px;
+	margin-left:-20px;
+}
+.input-group-addon{
+	border-right:1px solid #ccc !important;
+	border-top-right-radius:4px !important;
+	border-bottom-right-radius:4px !important;
+	background: #FFF !important;
+}
+select.form-control{
+	margin-left:5px;
+	margin-right:5px;
+	background: #F0F0F0;
+}
+.between{
+	margin-bottom:-5px;
+}
+.minus{
+	padding:10px;
+	margin:-10px;
+	cursor:pointer;
+}
+.btn-primary{
+	margin-right:10px;
+}
+.hidden{
+	display:none;
+}
